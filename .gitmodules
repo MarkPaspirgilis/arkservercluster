@@ -1,0 +1,3 @@
+[submodule "test-server-1/Content"]
+	path = test-server-1/Content
+	url = git@github.com:MarkPaspirgilis/arkservercluster_content.git
